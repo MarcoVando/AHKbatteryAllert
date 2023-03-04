@@ -1,5 +1,5 @@
 # AHKbatteryAllert
-Auto Hot Key script for displaying an allert message when device has reached a crtical level of battery charge. This way it's easier to prolonge battery life avoid long (and useles) charging sessions
+Auto Hot Key script for displaying an allert message when device has reached a crtical level of battery charge. This way it's easier to prolonge battery life avoid long (and useless) charging sessions
 
 # Installation
 - Download AHKScript from here: https://www.autohotkey.com/
