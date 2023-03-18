@@ -7,3 +7,10 @@ Auto Hot Key script for displaying an allert message when device has reached a c
 
 # Tips
 Put the script in %AppData%\Roaming\Microsoft\Windows\Start Menu\Programs\Startup folder to let it run in background 
+
+# Customization
+Critical level can be modified by changing **batteryAllert** variable at line 18
+
+```
+batteryAllert = 96
+```
