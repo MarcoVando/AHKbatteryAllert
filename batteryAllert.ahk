@@ -27,6 +27,7 @@ loop{
 		IfMsgBox Ok
 			break
     		}
+  Sleep, 300000
 }
 
 ReadInteger( p_address, p_offset, p_size, p_hex=true )
